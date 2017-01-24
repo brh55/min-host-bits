@@ -1,0 +1,32 @@
+{
+  "devDependencies": {
+    "ava": "^0.17.0",
+    "xo": "^0.17.1"
+  },
+  "name": "min-host-bits",
+  "description": "> Calculate minimum host bits needed for desired number of hosts with account for network address and broadcast address > > **minHostBits(256) // 9",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava -v"
+  },
+  "keywords": [
+    "subnet",
+    "networking",
+    "host bits",
+    "CIDR"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brh55/min-host-bits.git"
+  },
+  "author": "Brandon Him",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brh55/min-host-bits/issues"
+  },
+  "homepage": "https://github.com/brh55/min-host-bits#readme"
+}

@@ -22,5 +22,7 @@ Returns the minimum number of host bits accounting for the network address and b
 #### n
 *n* number of desired hosts
 
+## Related
+[min-prefix-length](https://github.com/brh55/min-prefix-length) - :1234: Calculate the minimum prefix length for an IPv4 subnet based on a desired number of host
 ## License
 MIT
